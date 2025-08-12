@@ -1,5 +1,10 @@
-## Code of Conduct
-Please read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on our standards and expectations for contributors.
+Please consider the below factors while contributing
+Code Style:
+Maintain a consistent code style for readability.
+Documentation:
+Ensure well-documented code for effective collaboration.
+Testing:
+Thoroughly test your changes before submitting a pull request.
+Issue Tracker:
+Check the Issue Tracker for tasks.
 
-## Contributing Guidelines
-Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to this project.
